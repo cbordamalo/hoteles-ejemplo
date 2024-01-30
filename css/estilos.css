@@ -1,0 +1,74 @@
+ /*header*/
+ img {
+     display: block;
+     width: 350px;
+     margin-top: 0;
+
+ }
+
+ figure {
+     display: flex;
+     justify-content: center;
+ }
+
+ h1 {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: center;
+     font-size: 45px;
+     color: #bb5397;
+     font-weight: lighter;
+     letter-spacing: 12px;
+ }
+
+ /*header*/
+ /*main*/
+ h2 {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: left;
+     color: #bb5397;
+     font-weight: light;
+     letter-spacing: 5px;
+     font-size: large;
+ }
+
+ h3 {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: justify;
+     color: #bb5397;
+     font-weight: light;
+     letter-spacing: 5px;
+     font-size: large;
+ }
+
+ p {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     align-content: space-around;
+     color: #7184c2;
+     font-size: small;
+
+ }
+
+ hotel1,
+ hotel3 {
+     float: right;
+     margin: 3px;
+ }
+
+ hotel2 {
+     float: left;
+     margin: 3px;
+ }
+
+
+ /*main*/
+ /*footer*/
+ #cabecera {
+    min-height: 600px;text-align: center;
+  
+    background-image:url(file:///D:/Users/Usuario/Documents/PROGRAMACION/PROGRAMACI%C3%93N%20%20DESAFIOS/DESAFIO%202/ejercicio-02-imagenes/03-ejercicio-imagenes-hoteles/img/mickey-minnie.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+ /*footer*/
